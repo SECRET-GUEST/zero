@@ -13,7 +13,7 @@
 
 ![Batch Script](https://img.shields.io/badge/Batch-Script-blue)
 
-# ZERO [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer) 
+# ZERO 🐶
 
 Welcome to simp land
 
